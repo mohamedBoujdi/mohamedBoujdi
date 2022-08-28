@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **software engineering**
 
-- 🌱 I’m currently learning **spring,IA**
+- 🌱 I’m currently learning **spring,IA, cyber security(APISec ,pentesting,forensic)**
 
 - 📫 How to reach me **boujdi.mez@gmail.com**
 
