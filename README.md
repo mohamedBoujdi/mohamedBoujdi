@@ -18,3 +18,5 @@
 
 <img src="https://user-images.githubusercontent.com/59446813/158016167-812d8843-3fb2-468b-81ba-989f46edf665.gif" alt="learning new things" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedboujdi&" alt="mohamedboujdi" /></p>
+
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedboujdi&theme=blue-green" alt="mohamedboujdi" /></p>-->
