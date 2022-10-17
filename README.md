@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate backend software engineer from Morocco</h3>
+<h3 align="center">A passionate backend software engineer & DevOps from Morocco</h3>
 
 - 🔭 I’m currently studying on **software engineering**
 
-- 🌱 I’m currently learning **spring,IA, cyber security(APISec ,pentesting,...)**
+- 🌱 I’m currently learning **spring cloud,Microservices,DevOps**
 
 - 📫 How to reach me **boujdi.mez@gmail.com**
 
