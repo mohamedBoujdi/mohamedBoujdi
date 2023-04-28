@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **software engineering**
 
-- 🌱 I’m currently learning **spring cloud,Microservices,DevOps**
+- 🌱 I’m currently learning **spring cloud,Microservices,DevSecOps**
 
 - 📫 How to reach me **boujdi.mez@gmail.com**
 - My Github profile analysis [:link:summary ](https://profile-summary-for-github.com/user/mohamedboujdi)
